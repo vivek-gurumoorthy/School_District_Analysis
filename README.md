@@ -8,7 +8,6 @@ District Summary DataFrame Prior to Removal of Thomas High School 9th Grade Scor
 :-------------------------:
 ![image](https://user-images.githubusercontent.com/108832056/184417994-afe4eada-b7ad-474a-91af-7174f9ac0b43.png)
 
-![]()|  
 
 District Summary DataFrame After Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
