@@ -6,7 +6,7 @@
 How is the district summary affected?
 District Summary DataFrame Prior to Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
-![](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Screen%20Shot%202022-07-28%20at%202.59.21%20PM.png)  |  
+![](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Screen%20Shot%202022-07-28%20at%202.59.21%20PM.png)|  
 
 District Summary DataFrame After Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
