@@ -25,6 +25,7 @@ Top Schools DataFrame After Removal of Thomas High School 9th Grade Scores      
 
 How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
+
 2017            |  2018
 :-------------------------:|:-------------------------:
 ![](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Screen%20Shot%202022-07-28%20at%202.59.21%20PM.png)  |  ![](https://github.com/vivek-gurumoorthy/stock-analysis/blob/main/Screen%20Shot%202022-07-28%20at%202.59.58%20PM.png)
