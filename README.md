@@ -42,6 +42,7 @@ Math After THS 9th Grade Score Removal           |  Reading After THS 9th Grade 
 ![]()|  ![]()
 
 * Scores by school spending
+
 School Spending DataFrame Prior to Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
 ![]()|  
@@ -49,7 +50,9 @@ School Spending DataFrame Prior to Removal of Thomas High School 9th Grade Score
 School Spending DataFrame After Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
 ![]()|  
+
 * Scores by school size
+
 School Size DataFrame Prior to Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
 ![]()|  
@@ -57,7 +60,9 @@ School Size DataFrame Prior to Removal of Thomas High School 9th Grade Scores   
 School Size DataFrame After Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
 ![]()|  
+
 * Scores by school type
+
 School Type DataFrame Prior to Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
 ![]()|  
