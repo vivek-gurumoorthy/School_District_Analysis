@@ -25,9 +25,9 @@ Top Schools DataFrame After Removal of Thomas High School 9th Grade Scores      
 
 How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
-  * Top Schools DataFrame After Removal of Thomas High School 9th Grade Scores            |  
-:-------------------------:
-![](https://github.com/vivek-gurumoorthy/School_District_Analysis/blob/main/Pictures%20for%20Analysis/Screen%20Shot%202022-08-11%20at%208.36.57%20PM.png)|
+Math Scores DataFrame Prior to Removal of Thomas High School 9th Grade Scores            |  Reading Scores DataFrame Prior to Removal of Thomas High School 9th Grade Scores  
+:-------------------------:-------------------------:
+![](https://github.com/vivek-gurumoorthy/School_District_Analysis/blob/main/Pictures%20for%20Analysis/Screen%20Shot%202022-08-11%20at%208.36.57%20PM.png)|![](https://github.com/vivek-gurumoorthy/School_District_Analysis/blob/main/Pictures%20for%20Analysis/Screen%20Shot%202022-08-11%20at%208.36.57%20PM.png)|
 * Scores by school spending
 * Scores by school size
 * Scores by school type
