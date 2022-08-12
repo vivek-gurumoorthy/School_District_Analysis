@@ -28,7 +28,7 @@ How does replacing the ninth-grade scores affect the following:
 
 Math Prior to THS 9th Grade Score Removal           |  Reading Prior to THS 9th Grade Score Removal
 :-------------------------:|:-------------------------:
-![[](https://github.com/vivek-gurumoorthy/School_District_Analysis/blob/main/Pictures%20for%20Analysis/Screen%20Shot%202022-08-11%20at%208.53.22%20PM.png)|  ![](https://github.com/vivek-gurumoorthy/School_District_Analysis/blob/main/Pictures%20for%20Analysis/Screen%20Shot%202022-08-11%20at%208.54.50%20PM.png)
+![](https://github.com/vivek-gurumoorthy/School_District_Analysis/blob/main/Pictures%20for%20Analysis/Screen%20Shot%202022-08-11%20at%208.53.22%20PM.png)|  ![](https://github.com/vivek-gurumoorthy/School_District_Analysis/blob/main/Pictures%20for%20Analysis/Screen%20Shot%202022-08-11%20at%208.54.50%20PM.png)
 
 Math After THS 9th Grade Score Removal           |  Reading After THS 9th Grade Score Removal
 :-------------------------:|:-------------------------:
