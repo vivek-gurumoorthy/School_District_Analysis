@@ -11,7 +11,7 @@ District Summary DataFrame Prior to Removal of Thomas High School 9th Grade Scor
 
 District Summary DataFrame After Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
-
+![image](https://user-images.githubusercontent.com/108832056/184419269-710a3bf3-1b6e-4717-bf9f-85c24f83b790.png)
 
 How is the school summary affected?
 School Summary DataFrame Prior to Removal of Thomas High School 9th Grade Scores            |  
@@ -21,7 +21,8 @@ School Summary DataFrame Prior to Removal of Thomas High School 9th Grade Scores
 
 School Summary DataFrame After Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
-![]()|  
+![image](https://user-images.githubusercontent.com/108832056/184419334-fa8f30b5-8a86-4470-af87-5755a438ed9c.png)
+
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Top Schools DataFrame Prior to Removal of Thomas High School 9th Grade Scores            |  
@@ -31,7 +32,8 @@ Top Schools DataFrame Prior to Removal of Thomas High School 9th Grade Scores   
 
 Top Schools DataFrame After Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
-![]()| 
+![image](https://user-images.githubusercontent.com/108832056/184419399-4180550b-180d-4de8-921c-cfb8a53d3b4d.png)
+
 
 How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
@@ -43,7 +45,8 @@ Math Prior to THS 9th Grade Score Removal           |  Reading Prior to THS 9th 
 
 Math After THS 9th Grade Score Removal           |  Reading After THS 9th Grade Score Removal
 :-------------------------:|:-------------------------:
-![]()|  ![]()
+![image](https://user-images.githubusercontent.com/108832056/184419463-9019c73e-48bf-4275-abce-d6ff83fc50d1.png)|  ![image](https://user-images.githubusercontent.com/108832056/184419524-fdd83e02-dd10-41b4-abef-0b61ca44937e.png)
+
 
 * Scores by school spending
 
@@ -54,7 +57,8 @@ School Spending DataFrame Prior to Removal of Thomas High School 9th Grade Score
 
 School Spending DataFrame After Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
-![]()|  
+![image](https://user-images.githubusercontent.com/108832056/184419576-8d498014-454c-45be-a736-8faedd999c62.png)
+
 
 * Scores by school size
 
@@ -65,7 +69,7 @@ School Size DataFrame Prior to Removal of Thomas High School 9th Grade Scores   
 
 School Size DataFrame After Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
-![]()|  
+![image](https://user-images.githubusercontent.com/108832056/184419618-c53f0c33-332c-4339-9810-39af8416efb7.png)
 
 * Scores by school type
 
@@ -76,7 +80,8 @@ School Type DataFrame Prior to Removal of Thomas High School 9th Grade Scores   
 
 School Type DataFrame After Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
-![]()|  
+![image](https://user-images.githubusercontent.com/108832056/184419645-697e5fe6-df0b-4efc-bdfc-819801d8ea7d.png)
+
 
 ## Summary
 
