@@ -29,7 +29,7 @@ School Summary DataFrame After Removal of Thomas High School 9th Grade Scores   
 ![image](https://user-images.githubusercontent.com/108832056/184419334-fa8f30b5-8a86-4470-af87-5755a438ed9c.png)
 
 
-* The district summary, while somewhat altered by the removal of Thomas High School's 9th grade scores, did not change all that much between each iteration of the analysis. The average math and reading scores across the district were nearly identical. The percentage of students passing math, the percentage of students passing reading, and the percentage of students passing both subjects all declined, by 0.1%, 0.1%, and 0.2%, respectively. Overall, performing the analysis again without Thomas High School's 9th grade scores did not greatly affect average performance across the district.
+* The school summary also did not change much between each iteration of the analysis. In fact, the only changes that occurred to this particular DataFrame were localized to the row concerning Thomas High School, as all other school metrics were unaffected. For Thomas High School, the average math and reading scores decreased by approximately 0.1. The passing percentages for math, reading, and overall also declined, by 0.1, 0.3, and 0.3% respectively. Clearly, Thomas High School's performance appeared better with the inclusion of scores that may have been a result of academic dishonesty. Still, the overall metrics for the school were not drastically decreased by the exclusion of this information. 
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Top Schools DataFrame Prior to Removal of Thomas High School 9th Grade Scores            |  
