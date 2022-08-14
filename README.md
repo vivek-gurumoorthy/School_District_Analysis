@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Overview of the Analysis
  The purpose of this analysis is to examine school and student performance across a school district in a city. Performance is measured according to standardized test scores in both math as well as reading. To further categorize each school across the district, information is available about the grade in which each included student is currently enrolled, as well as school type, size, and budget details. 
