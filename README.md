@@ -41,6 +41,16 @@ Top Schools DataFrame After Removal of Thomas High School 9th Grade Scores      
 :-------------------------:
 ![image](https://user-images.githubusercontent.com/108832056/184419399-4180550b-180d-4de8-921c-cfb8a53d3b4d.png)
 
+
+Top Schools DataFrame Prior to Removal of Thomas High School 9th Grade Scores            |  
+:-------------------------:
+![image](https://user-images.githubusercontent.com/108832056/184418440-bd8e9c45-5bc2-49d9-9d09-c6eb4fc9d2e5.png)
+
+
+Top Schools DataFrame After Removal of Thomas High School 9th Grade Scores            |  
+:-------------------------:
+![image](https://user-images.githubusercontent.com/108832056/184419399-4180550b-180d-4de8-921c-cfb8a53d3b4d.png)
+
 * The performance of Thomas High School relative to the other schools was also largely unaffected by the exclusion of scores by its 9th graders. While, as previously detailed, average math and reading scores as well as passing percentages in each individual subject and both subjects together were lower with the exclusion of the 9th grade scores, clearly Thomas High School still performed well in relation to the other schools. In ranking all 15 schools in descending order by overall passing percentage, Thomas High School still comes 2nd out of the 15 schools in both iterations of the analysis. While the overall passing percentage is 0.3% lower in the subsequent analysis, Thomas High School still outperforms the vast majority of other insitutions. 
 
 How does replacing the ninth-grade scores affect the following:
