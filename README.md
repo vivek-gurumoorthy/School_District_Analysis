@@ -41,6 +41,7 @@ Top Schools DataFrame After Removal of Thomas High School 9th Grade Scores      
 :-------------------------:
 ![image](https://user-images.githubusercontent.com/108832056/184419399-4180550b-180d-4de8-921c-cfb8a53d3b4d.png)
 
+* The performance of Thomas High School relative to the other schools was also largely unaffected by the exclusion of scores by its 9th graders. While, as previously detailed, average math and reading scores as well as passing percentages in each individual subject and both subjects together were lower with the exclusion of the 9th grade scores, clearly Thomas High School still performed well in relation to the other schools. In ranking all 15 schools in descending order by overall passing percentage, Thomas High School still comes 2nd out of the 15 schools in both iterations of the analysis. While the overall passing percentage is 0.3% lower in the subsequent analysis, Thomas High School still outperforms the vast majority of other insitutions. 
 
 How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
@@ -54,6 +55,7 @@ Math After THS 9th Grade Score Removal           |  Reading After THS 9th Grade 
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/108832056/184419463-9019c73e-48bf-4275-abce-d6ff83fc50d1.png)|  ![image](https://user-images.githubusercontent.com/108832056/184419524-fdd83e02-dd10-41b4-abef-0b61ca44937e.png)
 
+* The scores broken up by grade for each school by subject are perhaps the DataFrames most substantially affected by the exclusion of Thomas High School's 9th grade scores. This is clear from the fact that in the second analysis, both the Thomas High School reading and math scores read as "nan", also meaning "not a number". This demonstrates that these scores were effectively voided in the second analysis and were not factored into averages or other metrics. All other scores, including those for students in Thomas High School in other grades, were unaffected. For all schools in this analysis, scores do not seem to vary greatly across each grade level.
 
 * Scores by school spending
 
@@ -66,6 +68,7 @@ School Spending DataFrame After Removal of Thomas High School 9th Grade Scores  
 :-------------------------:
 ![image](https://user-images.githubusercontent.com/108832056/184419576-8d498014-454c-45be-a736-8faedd999c62.png)
 
+* School performance by school spending was completely unaffected by removal of Thomas High School's 9th grade scores. From this DataFrame, it appears that schools that budgeted less per student actually observed better student standardized test performance. Some data that leads to this insight is that those schools that spent the least (< $586) per student actually saw on average the highest average math and reading scores as well as the highest passing percentages in each individual subject as well as both subjects cumulatively. This trend appears to hold true for the other spending bins, as performance for the higher spending bins actually appears to decline. 
 
 * Scores by school size
 
@@ -78,6 +81,8 @@ School Size DataFrame After Removal of Thomas High School 9th Grade Scores      
 :-------------------------:
 ![image](https://user-images.githubusercontent.com/108832056/184419618-c53f0c33-332c-4339-9810-39af8416efb7.png)
 
+* School performance by school size was also completely unaffected by removal of Thomas High School's 9th grade scores. It appears from the information displayed in this DataFrame that both Small and Medium schools appear to, on average, demonstrate superior student performance in comparison with Large schools. Further, Medium schools appear to slightly outperform Small schools on average, having the highest overall passing percentage and reading passing percentage. Small schools, having the highest math score on average, also tied with Medium schools in the metrics of average reading score, percentage passing math, and percentage passing reading. While the difference between Small and Medium schools is difficult to assess, it appears that both of these schools greatly outperform Large schools on average, as Large schools recorded the lowest score for all metrics. 
+
 * Scores by school type
 
 School Type DataFrame Prior to Removal of Thomas High School 9th Grade Scores            |  
@@ -89,6 +94,7 @@ School Type DataFrame After Removal of Thomas High School 9th Grade Scores      
 :-------------------------:
 ![image](https://user-images.githubusercontent.com/108832056/184419645-697e5fe6-df0b-4efc-bdfc-819801d8ea7d.png)
 
+* School performance by school type was also unaffected by the removal of Thomas High School's 9th grade scores. From this DataFrame, Charter schools appear to substantially outperform District schools on average, with large observed differences in all metrics and a 36% different in overall passing percentage (90% for Charter and 54% for District). 
 
 ## Summary
 
