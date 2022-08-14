@@ -16,6 +16,7 @@ District Summary DataFrame After Removal of Thomas High School 9th Grade Scores 
 :-------------------------:
 ![image](https://user-images.githubusercontent.com/108832056/184419269-710a3bf3-1b6e-4717-bf9f-85c24f83b790.png)
 
+* The district summary, while somewhat altered by the removal of Thomas High School's 9th grade scores, did not change all that much between each iteration of the analysis. The average math and reading scores across the district were nearly identical. The percentage of students passing math, the percentage of students passing reading, and the percentage of students passing both subjects all declined, by 0.1%, 0.1%, and 0.2%, respectively. Overall, performing the analysis again without Thomas High School's 9th grade scores did not greatly affect average performance across the district.
 How is the school summary affected?
 School Summary DataFrame Prior to Removal of Thomas High School 9th Grade Scores            |  
 :-------------------------:
