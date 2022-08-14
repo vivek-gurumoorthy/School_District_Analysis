@@ -97,4 +97,5 @@ School Type DataFrame After Removal of Thomas High School 9th Grade Scores      
 * School performance by school type was also unaffected by the removal of Thomas High School's 9th grade scores. From this DataFrame, Charter schools appear to substantially outperform District schools on average, with large observed differences in all metrics and a 36% different in overall passing percentage (90% for Charter and 54% for District). 
 
 ## Summary
-
+* Overall, the results of the performed analysis were not significantly altered by the removal of scores from Thomas High School that may have resulted from academic dishonesty. Thomas High School still performed very well relative to other schools in both iterations of the analysis.
+* From comparing performance by spending, size, and type of school, better student performance may be likely in schools that spend less per student, schools that are either small or middle size, and schools that are charter schools rather than district schools. 
